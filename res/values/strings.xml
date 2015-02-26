@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slider</string>
+    <string name="start_button">Start Timer</string>
+    <string name="timer_text">10:00</string>
+    <string name="ip_field">Host IP</string>
+    <string name="port_field">Host Port</string>
+
+</resources>
